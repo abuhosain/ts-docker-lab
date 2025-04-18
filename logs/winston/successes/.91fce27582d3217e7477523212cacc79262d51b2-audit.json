@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\.91fce27582d3217e7477523212cacc79262d51b2-audit.json",
+    "files": [
+        {
+            "date": 1744955656338,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-54-16-success.log",
+            "hash": "d7bfb2138954a38cd68fc0468a3aa8e1b201136ca47a19a5554614d899ea788b"
+        },
+        {
+            "date": 1744955732250,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-55-32-success.log",
+            "hash": "5cc63436c11febe1de4b7af121100c41861a28319748c157b00132b7aa922b9b"
+        },
+        {
+            "date": 1744955788739,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-56-28-success.log",
+            "hash": "3bcf5392e01f80735165f268ff4bd68bc6a7a1ee9b70db013566166d0af4d864"
+        },
+        {
+            "date": 1744955873145,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-57-53-success.log",
+            "hash": "7a0108613510a3af43608fad74a3bf85403335a028a66fafe8d96c69010b82ae"
+        },
+        {
+            "date": 1744955923277,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-58-43-success.log",
+            "hash": "356304f936756fe2df6bdb021bc26d6034c7b1e7e999e2d8ae1c3e6565a46056"
+        },
+        {
+            "date": 1744955925180,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-58-45-success.log",
+            "hash": "bf77bd89f2419f5ba39c0c88c48d004ae20cdf60575af3459a432bf9ddb3fa75"
+        },
+        {
+            "date": 1744955931585,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-58-51-success.log",
+            "hash": "7cae612c4af43b1f482f4e90b5a332814a14731ecf73408106a2300acd385a49"
+        },
+        {
+            "date": 1744955940168,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-59-00-success.log",
+            "hash": "a0cb25a7d9986c7e22a8bb82e87de4666cfabd1eebe18c94b306e9496fc4a9e1"
+        },
+        {
+            "date": 1744955950131,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-59-10-success.log",
+            "hash": "601265eb3f6db8b498de49e578a65e33f453e9e74c2bba5ef99de368b86d730c"
+        },
+        {
+            "date": 1744955953551,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-59-13-success.log",
+            "hash": "4527cd69684dc63925dc9a5d838fc044b5da921244f58639769a764784b973d0"
+        },
+        {
+            "date": 1744955958467,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-59-18-success.log",
+            "hash": "3581ac36be48aab1f854d25c396b2e6eeee4ba9fcfd236e8a2d9adfbf015e7ad"
+        },
+        {
+            "date": 1744955962704,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-11-59-22-success.log",
+            "hash": "cecb1ce77ef5f11af3ea7d11265bfe120e42e7d6af390d628070f48338a85146"
+        },
+        {
+            "date": 1744956024322,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-18-12-00-24-success.log",
+            "hash": "c5e6a3e8d6b3aa773980e63f084a5d790bd2ef0ce5882c777d12939be397f1d1"
+        }
+    ],
+    "hashType": "sha256"
+}
