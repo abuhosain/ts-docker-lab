@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\.91fce27582d3217e7477523212cacc79262d51b2-audit.json",
+    "files": [
+        {
+            "date": 1745087780910,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-20-00-36-20-success.log",
+            "hash": "dad94d5372d8f59831f4ce83f53a3ae3f018d8a03e0c78a83608ed6bf442747d"
+        },
+        {
+            "date": 1745087806119,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-20-00-36-46-success.log",
+            "hash": "a86e0dda8a23bbbbacad485540df93cbcd984f77d57de269a532a0d81e0988ce"
+        },
+        {
+            "date": 1745087881424,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-20-00-38-01-success.log",
+            "hash": "d45d5c24d39085ca009f9d7fe88e1aecb0c4f71de30d14c0f01ef71083d34eec"
+        },
+        {
+            "date": 1745088044878,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-20-00-40-44-success.log",
+            "hash": "1f1de6a1f046dade614695ae45fcf5505497c0e9a72a7716e3fbdf98970937c4"
+        },
+        {
+            "date": 1745088258646,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-20-00-44-18-success.log",
+            "hash": "e37ca451c796df6a75d838c424e6a6a0b7680b116a4f896df77eb452ab0a0f48"
+        },
+        {
+            "date": 1745088326978,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-20-00-45-26-success.log",
+            "hash": "5736040ab8d40027bc6da4ee7ea5aec16677a1aecaa5c6db2507d7da95826b32"
+        },
+        {
+            "date": 1745088327119,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\successes\\docker-2025-04-20-00-45-27-success.log",
+            "hash": "387187cacfc1685cd33d6413edd799e5f2cd3d303dcb0e6af4c32e0fc8f84e09"
+        }
+    ],
+    "hashType": "sha256"
+}

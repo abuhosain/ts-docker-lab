@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\errors\\.5d141c8751744059d744014d0510ca7c2e2ee5cb-audit.json",
+    "files": [
+        {
+            "date": 1745087780916,
+            "name": "D:\\level2\\Docker\\ts-docker-lab\\logs\\winston\\errors\\docker-2025-04-20-00-error.log",
+            "hash": "9d302df99a0b16819b6d813184ed2b9bd5c66cf5d8e598cd5e7943bdba724bd9"
+        }
+    ],
+    "hashType": "sha256"
+}
